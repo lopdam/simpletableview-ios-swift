@@ -13,6 +13,7 @@
 		72A147F526386EE700072F3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72A147F326386EE700072F3D /* Main.storyboard */; };
 		72A147F726386EF500072F3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72A147F626386EF500072F3D /* Assets.xcassets */; };
 		72A147FA26386EF500072F3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72A147F826386EF500072F3D /* LaunchScreen.storyboard */; };
+		72A148042638835D00072F3D /* DetailTeamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A148032638835D00072F3D /* DetailTeamViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		72A147F626386EF500072F3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		72A147F926386EF500072F3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		72A147FB26386EF500072F3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72A148032638835D00072F3D /* DetailTeamViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTeamViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				72A147F626386EF500072F3D /* Assets.xcassets */,
 				72A147F826386EF500072F3D /* LaunchScreen.storyboard */,
 				72A147FB26386EF500072F3D /* Info.plist */,
+				72A148032638835D00072F3D /* DetailTeamViewController.swift */,
 			);
 			path = SimpleTableView;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				72A147F226386EE700072F3D /* ViewController.swift in Sources */,
 				72A147EE26386EE700072F3D /* AppDelegate.swift in Sources */,
+				72A148042638835D00072F3D /* DetailTeamViewController.swift in Sources */,
 				72A147F026386EE700072F3D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
